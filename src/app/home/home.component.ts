@@ -19,7 +19,6 @@ export class HomeComponent implements OnInit {
   getEmployeeDetails(){
     this.hservice.employeeDetails().subscribe(data=>{
       this.employeeDetails = data;
-      console.log(data);
     });
   }
 
