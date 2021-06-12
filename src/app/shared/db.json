@@ -1,0 +1,25 @@
+{
+    "employee":[{
+        "userId":1,
+        "fullName":"Ganesh",
+        "jobTitleName":"UI Developer",
+        "employeeCode":"B173G28",
+        "region" : "Hindu"
+    }],
+    "phone_emails" :[
+        {
+            "phoneNo" : 9985099485,
+            "email":"ganesheee.eee@gmail.com"
+        }
+    ],
+    "Address" : [
+        {
+            "dNo" : "2-231/1",
+            "street" :"BC Colony",
+            "village" : "Bangarupeta",
+            "mandal" : "Venkatagiri",
+            "district":"Nellore",
+            "state" : "Andhra Pradesh"
+        }
+    ]
+}
